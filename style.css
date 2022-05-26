@@ -1,0 +1,49 @@
+.petuh {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-size: large;
+}
+
+hr{
+    border-color:rgb(255, 122, 122) ;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+    margin:0;
+    font-family: Tahoma;
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+.seti{
+    text-align: center;
+    font-size: 30px;
+}
+
+a{
+    font-size: 50px;
+    text-align: center;
+    color:deeppink;
+}
+
+.card{
+    width: 400px;
+    margin: 30px auto;
+    padding: 20px;
+
+    background-color: #fff;
+    box-shadow: 0 5px 10px;
+    border-radius: 10px;
+}
+
+.card-photo{
+    display: block;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+
+}
